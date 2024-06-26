@@ -1,3 +1,8 @@
+#Overview
+Cryptolume is a ReactJS app that provides detailed information about the various cryptocurrencies by fetching data from multiple sources using RapidAPI.
+It also uses Redux Toolkit for State Management, Ant Design for UI Creation and Chart.js for creating Charts.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
